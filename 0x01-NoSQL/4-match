@@ -1,0 +1,2 @@
+// my-commnet
+db.school.find({name: "Holberton school"})
